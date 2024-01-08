@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Umar Shehu
 ==================================================================================================================================
 
-Data Scientis, Technical Writer and Aspring ML/AI Engineer
+Data Scientist, Technical Writer, and Aspiring ML/AI Engineer
 ----------------------------------------------------------
 
 * 🌍  I'm based in Abuja
 * ✉️  You can contact me at [umarbshehu@gmail.com](mailto:umarbshehu@gmail.com)
-* 🤝  I'm open to collaborating on Python, Data Science and Linux Projects
-* ⚡  I strongly believe technologies and their applications are a great gift to human race and it's existence!
+* 🤝  I'm open to collaborating on Data Science, Python, and Linux Projects.
+* ⚡  I strongly believe technologies and their applications are a great gift to the human race and its existence!
 
 ### Skills
 
