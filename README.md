@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Umar Shehu
 ==================================================================================================================================
 
-Data Scientist, Technical Writer, and Aspiring ML/AI Engineer
+Technical Writer || Cloud Computing || Data Scientiest
 ----------------------------------------------------------
 
 * 🌍  I'm based in Abuja
